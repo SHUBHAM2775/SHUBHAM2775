@@ -1,19 +1,17 @@
 <!-- Banner image suggestion: Replace the link below with your custom banner or animated GIF! -->
-<!-- <p align="center"> -->
+<p align="center">
 <!--   <img src="https://user-images.githubusercontent.com/SHUBHAM2775/banner_placeholder.png" alt="Shubham's Banner" width="100%" /> -->
-<!-- </p> -->
+</p>
 
 <h1 align="center">Hi there 👋, I'm Shubham Upadhyay</h1>
 <h3 align="center">Student | Aspiring Software Developer | Cat Lover 🐾</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-323330?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-<!--   <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-0078D4?style=for-the-badge&logo=open-source-initiative&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Anime%20Fan-FF4500?style=for-the-badge&logo=crunchyroll&logoColor=white" />
   <img src="https://img.shields.io/badge/Coding%20Lover-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Space%20Enthusiast-000000?style=for-the-badge&logo=nasa&logoColor=white" />
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhamupadhyay2005/" target="_blank">
@@ -28,39 +26,93 @@
 
 🌟 **About Me**
 
-I’m currently pursuing a B.E. in Information Technology, with a deep interest in turning ideas into impactful digital solutions. I enjoy the challenge of breaking down complex problems and crafting clean, efficient code. Naturally curious and quietly determined, I’m always exploring new technologies, experimenting with creative approaches, and refining my skills. For me, every project is an opportunity to learn, improve, and build something meaningful.
+I’m a B.E. Information Technology student passionate about building impactful digital solutions. I enjoy tackling complex problems, writing clean and efficient code, and constantly exploring new technologies. Every project is an opportunity to learn, improve, and create something meaningful.
 
 ---
 
 🛠 **Tech Stack**
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color:white;"/>
-  &nbsp;&nbsp;
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background-color:white;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-</p>
+<table align="center" style="border:none;">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/>
+      <b>C</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/>
+      <b>C++</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>
+      <b>Java</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>
+      <b>HTML5</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>
+      <b>CSS3</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/><br/>
+      <b>Tailwind CSS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
+      <b>React.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/>
+      <b>Node.js</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/><br/>
+      <b>Express.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>
+      <b>MongoDB</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>
+      <b>MySQL</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
+      <b>GitHub</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/><br/>
+      <b>Postman</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/><br/>
+      <b>Canva</b>
+    </td>
+    <td width="120"></td>
+    <td width="120"></td>
+    <td width="120"></td>
+  </tr>
+</table>
 
 ---
 
@@ -74,14 +126,16 @@ I’m currently pursuing a B.E. in Information Technology, with a deep interest 
   <a href="https://github.com/SHUBHAM2775/VendorMitra">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=VendorMitra&theme=react&hide_border=true" />
   </a>
+<!--   <a href="https://github.com/SHUBHAM2775/StackIt">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=StackIt&theme=react&hide_border=true" />
+  </a> -->
 </p>
 
 ---
 
 ### 🚀 Currently Learning
-- Next.js & TypeScript  
+- Next.js
 - AI/ML
-
 
 ### 🤝 Looking to Collaborate On
 - Open Source MERN projects
