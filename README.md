@@ -151,7 +151,6 @@ I’m a B.E. Information Technology student passionate about building impactful 
 ---
 
 ### 🚀 Currently Learning
-- Next.js
 - AI/ML
 
 ### 🤝 Looking to Collaborate On
