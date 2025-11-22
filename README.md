@@ -118,18 +118,35 @@ I’m a B.E. Information Technology student passionate about building impactful 
 
 ✨ **Featured Projects**
 
-<p>
-  <a href="https://github.com/SHUBHAM2775/NFC4_DeepThink">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=NFC4_DeepThink&theme=react&hide_border=true" />
-  </a>
-  <br><br>
-  <a href="https://github.com/SHUBHAM2775/VendorMitra">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=VendorMitra&theme=react&hide_border=true" />
-  </a>
-<!--   <a href="https://github.com/SHUBHAM2775/StackIt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=StackIt&theme=react&hide_border=true" />
-  </a> -->
-</p>
+<table>
+  <tr>
+    <!-- Column 1: NFC4_DeepThink & VendorMitra -->
+    <td>
+      <a href="https://github.com/SHUBHAM2775/NFC4_DeepThink">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=NFC4_DeepThink&theme=react&hide_border=true" />
+      </a>
+      <br><br><br>
+      <a href="https://github.com/SHUBHAM2775/VendorMitra">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=VendorMitra&theme=react&hide_border=true" />
+      </a>
+    </td>
+    <!-- Column 2: EasyShift & Movie Explorer -->
+    <td>
+      <!-- EasyShift -->
+      <a href="https://github.com/SHUBHAM2775/EasyShift">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=EasyShift&theme=react&hide_border=true" />
+      </a>
+      <br><br><br>
+      <!-- Movie Explorer -->
+      <a href="https://github.com/SHUBHAM2775/movie-explorer">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=movie-explorer&theme=react&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
