@@ -138,8 +138,8 @@ I’m a B.E. Information Technology student passionate about building impactful 
       </a>
       <br><br><br>
       <!-- Movie Explorer -->
-      <a href="https://github.com/SHUBHAM2775/movie-explorer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=movie-explorer&theme=react&hide_border=true" />
+      <a href="https://github.com/SHUBHAM2775/MovieExplorer">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=MovieExplorer&theme=react&hide_border=true" />
       </a>
     </td>
   </tr>
