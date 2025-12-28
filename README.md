@@ -169,12 +169,14 @@ I’m a B.E. Information Technology student passionate about building impactful 
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHUBHAM2775&show_icons=true&theme=react&hide_border=true" alt="SHUBHAM2775's GitHub Stats" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAM2775&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHUBHAM2775&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAM2775&layout=compact&theme=react&hide_border=true&cache_seconds=86400" width="340"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAM2775&theme=react&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SHUBHAM2775&theme=react&hide_border=true"/>
 </p>
+
 
 ---
 
