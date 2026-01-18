@@ -20,6 +20,9 @@
   <a href="mailto:shubhamu1332@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
   </a>
+  <a href="https://shubhamu.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?logo=vercel&style=for-the-badge" alt="Portfolio">
+  </a>
 </p>
 
 ---
