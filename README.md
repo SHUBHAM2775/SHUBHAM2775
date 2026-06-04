@@ -1,200 +1,117 @@
-<!-- Banner image suggestion: Replace the link below with your custom banner or animated GIF! -->
+<h1 align="center">Hey 👋 I'm Shubham Upadhyay</h1>
 <p align="center">
-<!--   <img src="https://user-images.githubusercontent.com/SHUBHAM2775/banner_placeholder.png" alt="Shubham's Banner" width="100%" /> -->
-</p>
-
-<h1 align="center">Hi there 👋, I'm Shubham Upadhyay</h1>
-<h3 align="center">Student | Aspiring Software Developer | Cat Lover 🐾</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-323330?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-  <img src="https://img.shields.io/badge/Anime%20Fan-FF4500?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coding%20Lover-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Space%20Enthusiast-000000?style=for-the-badge&logo=nasa&logoColor=white" />
+  <b>Full-Stack Developer · AI Enthusiast · TSEC Mumbai · 3rd Year IT</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhamupadhyay2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/shubhamupadhyay2005/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shubhamu1332@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
+  <a href="https://shubhamu.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://shubhamu.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-black?logo=vercel&style=for-the-badge" alt="Portfolio">
+  <a href="mailto:shubhamu1332@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=SHUBHAM2775&style=flat&color=0A66C2"/>
 </p>
 
 ---
 
-🌟 **About Me**
+3rd year B.E. IT student at TSEC building full-stack and AI-powered apps that solve real problems — rural healthcare, interview prep, workforce management. I like shipping things that actually work.
 
-I’m a B.E. Information Technology student passionate about building impactful digital solutions. I enjoy tackling complex problems, writing clean and efficient code, and constantly exploring new technologies. Every project is an opportunity to learn, improve, and create something meaningful.
-
----
-
-🛠 **Tech Stack**
-
-<table align="center" style="border:none;">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/>
-      <b>C</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/>
-      <b>C++</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>
-      <b>Java</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
-      <b>Python</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
-      <b>JavaScript</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>
-      <b>HTML5</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>
-      <b>CSS3</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/><br/>
-      <b>Tailwind CSS</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
-      <b>React.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/>
-      <b>Node.js</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/><br/>
-      <b>Express.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>
-      <b>MongoDB</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>
-      <b>MySQL</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
-      <b>Git</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
-      <b>GitHub</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/><br/>
-      <b>Postman</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/><br/>
-      <b>Canva</b>
-    </td>
-    <td width="120"></td>
-    <td width="120"></td>
-    <td width="120"></td>
-  </tr>
-</table>
+- 📍 Mumbai, India &nbsp;·&nbsp;
+- 💼 Open to internships in full-stack / AI
 
 ---
 
-✨ **Featured Projects**
+### 🔨 Tech Stack
+
+### 🔨 Tech Stack
+
+### 🔨 Tech Stack
 
 <table>
   <tr>
-    <!-- Column 1: NFC4_DeepThink & VendorMitra -->
-    <td>
-      <a href="https://github.com/SHUBHAM2775/NFC4_DeepThink">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=NFC4_DeepThink&theme=react&hide_border=true" />
-      </a>
-      <br><br><br>
-      <a href="https://github.com/SHUBHAM2775/VendorMitra">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=VendorMitra&theme=react&hide_border=true" />
-      </a>
-    </td>
-    <!-- Column 2: EasyShift & Movie Explorer -->
-    <td>
-      <!-- EasyShift -->
-      <a href="https://github.com/SHUBHAM2775/EasyShift">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=EasyShift&theme=react&hide_border=true" />
-      </a>
-      <br><br><br>
-      <!-- Movie Explorer -->
-      <a href="https://github.com/SHUBHAM2775/MovieExplorer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBHAM2775&repo=MovieExplorer&theme=react&hide_border=true" />
-      </a>
-    </td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></td>
   </tr>
 </table>
 
+### 🚀 Featured Projects
 
-
-
----
-
-### 🚀 Currently Learning
-- AI/ML
-
-### 🤝 Looking to Collaborate On
-- Open Source MERN projects
-- Hackathons
-
----
-
-📫 **Let's Connect!**
-
-- [LinkedIn](https://www.linkedin.com/in/shubhamupadhyay2005/)
-- Email: shubhamu1332@gmail.com
+| Project | What it does | Stack |
+|---|---|---|
+| [**Sakhi Saathi**](https://github.com/SHUBHAM2775/NFC4_DeepThink) | AI multilingual pregnancy care — voice logging, emergency detection, rural-first 🏥 | React, Flask, Llama 3.2, Twilio, MongoDB |
+| [**MockMate**](https://github.com/SHUBHAM2775/MockMate) | AI mock interviews with voice input, instant scoring & coached rewrites 🎤 | Next.js, Gemini AI, Groq, Web Speech API |
+| [**RankUp**](https://github.com/SHUBHAM2775/RankUp) | Adaptive DSA learning with algorithm visualizers & progress tracking 📈 | Next.js, Groq AI, MongoDB, NextAuth.js |
+| [**EasyShift**](https://github.com/SHUBHAM2775/EasyShift) | Staff scheduling + QR attendance with role-based dashboards 🗓️ | Next.js, Python, Supabase, Node.js |
+| [**VendorMitra**](https://github.com/SHUBHAM2775/VendorMitra) | B2B marketplace connecting suppliers & retailers 🛒 | JavaScript, Node.js, MongoDB |
+| [**Feasto**](https://github.com/SHUBHAM2775/Feasto-Python) | Restaurant ordering app with auth, cart & payments 🍽️ | Python, Tkinter, MongoDB |
 
 ---
 
-📊 **GitHub Stats**
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHUBHAM2775&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAM2775&layout=compact&theme=react&hide_border=true&cache_seconds=86400" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHUBHAM2775&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAM2775&layout=compact&theme=default&hide_border=true&langs_count=8" width="340"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SHUBHAM2775&theme=react&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SHUBHAM2775&theme=default&hide_border=true&mode=weekly"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHUBHAM2775&theme=flat&no-frame=true&row=1&column=6&margin-w=10"/>
+</p>
+
+---
+
+### 🌱 Currently
+
+- Contributing to open source.
+- Exploring LLM integrations and AI-powered apps.
+- Looking for internship opportunities
 
 ---
 
 <details>
-<summary>⚡ Fun Facts</summary>
+<summary>⚡ A bit more about me</summary>
+<br>
 
-- I’m a quiet observer but always curious to learn new things.
+- Quiet observer, constantly curious
 - Cats are my spirit animal 🐾
-- Love to watch anime, play badminton, and gaze at the stars!
+- Anime, badminton, and stargazing on rotation
+
 </details>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHUBHAM2775&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">Thanks for visiting! Let's build something awesome together 🚀</p>
+<p align="center">Let's build something impactful 🚀</p>
