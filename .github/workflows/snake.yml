@@ -22,6 +22,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # snk sets the total animation length as a fixed millisecond value
+      # baked into the SVG. This halves every duration in the file so the
+      # snake moves twice as fast. Change "/2" to "/3" for 3x speed, etc.
+      - name: Speed up the animation
+        run: |
+          perl -i -pe 's/(\d+)ms/int($1\/2)."ms"/ge' dist/github-contribution-grid-snake.svg
+          perl -i -pe 's/(\d+)ms/int($1\/2)."ms"/ge' dist/github-contribution-grid-snake-dark.svg
+
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
