@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=200&section=header&text=Shubham%20Upadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20TSEC%20Mumbai&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%E2%80%94+React+%2F+Next.js+%2F+Node;3rd+Year+IT+Student+at+TSEC+Mumbai;Builder+of+Orizon+and+Tremor" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%E2%80%94+React+%2F+Next.js+%2F+Node;Final+Year+IT+Student+at+TSEC+Mumbai;Builder+of+Orizon+and+Tremor" />
 
 <br/>
 
