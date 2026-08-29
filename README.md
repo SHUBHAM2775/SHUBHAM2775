@@ -26,7 +26,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=32&pause=1200&color=E8A649&center=true&vCenter=true&width=600&lines=Shubham+Upadhyay;Full-Stack+Developer;4th+Year+IT+%C2%B7+TSEC+Mumbai;Building+with+AI%2FML+on+my+own+terms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=32&pause=1200&color=E8A649&center=true&vCenter=true&width=600&lines=Shubham+Upadhyay;Full-Stack+Developer;4th+Year+IT+%C2%B7+TSEC+Mumbai" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -50,7 +50,7 @@
 
 I'm **Shubham**, a 4th year Information Technology student at **Thadomal Shahani Engineering College, Mumbai**, and a full-stack developer who builds end-to-end, production-shaped projects rather than just demos.
 
-- Learning and applying **AI/ML** on my own terms and not chasing every trend, picking what actually solves the problem in front of me (anomaly detection, embeddings, risk scoring)
+- Learning and applying **AI/ML** on my own terms and not chasing every trend, picking what actually solves the problem in front of me.
 - Secured 2nd place at **CODEISSANCE 2026** and top-5 finalist at **CODEISSANCE 2025**
 - Quiet by nature, fueled by curiosity, always exploring, building, improving myself.
 - Music lover, Marvel and One Piece fan, into anime, badminton, and stargazing with a soft spot for cats.
@@ -184,18 +184,23 @@ Staff scheduling and attendance platform using QR-based real-time check-ins to a
 
 <br/>
 
-## Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHUBHAM2775&bg_color=0B0B0A&color=E8A649&line=C1440E&point=E7D9B8&area=true&area_color=E8A649&hide_border=true" width="100%"/>
-</div>
+## Github Graph
 
 <!--
-  If the activity-graph widget above is slow/down, this snake contribution
-  animation is a solid drop-in alternative (needs a one-time GitHub Actions
-  setup — see github.com/Platane/snk). Ask me to write the workflow file
-  if you want it.
+  Baby Den Den Mushi crawling your real contribution grid — a generic,
+  unbranded coiled-shell snail (no show-accurate colors/branding). As it
+  "answers" each day, high-activity days chime with an expanding call-ring
+  in the ember/amber palette — the busier the day, the louder the ring.
+
+  Fully self-contained, nothing forked or external:
+    1. Add scripts/dendenmushi/generate.mjs to THIS repo
+    2. Add .github/workflows/snake.yml to THIS repo
+    3. Run it once from the Actions tab (workflow_dispatch)
+  It commits dendenmushi.svg straight to main, which the line below points at.
 -->
+<div align="center">
+<img src="dendenmushi.svg" width="100%" alt="A Den Den Mushi crawling my contribution grid, ringing on high-activity days"/>
+</div>
 
 <br/>
 
