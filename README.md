@@ -1,202 +1,217 @@
+<!--
+  ============================================================
+  SHUBHAM2775 / README.md
+  Palette: bg #0B0B0A | amber #E8A649 | ember #C1440E | cream #E7D9B8 | muted #A9998A
+  ============================================================
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=200&section=header&text=Shubham%20Upadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20TSEC%20Mumbai&descAlignY=58&descSize=17" width="100%"/>
+<!--
+  MAIN BANNER — add your own image here.
+  Recommended: 1600x400px (or similar wide aspect ratio), dark background,
+  ember/amber glow, high contrast, halftone or grain texture.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+and+AI/ML+Explorer;Final+Year+IT+Student+at+TSEC+Mumbai;Runner+Up+of+CODEISSANCE'26+Hackathon;Secured+46th+Rank+in+Nexus+Spring+of+Code+(NSOC)" />
+  Pinterest search tags to try:
+  "dark pirate adventure poster banner"
+  "one piece amber ember aesthetic wallpaper banner"
+  "pirate treasure map dark banner png"
+  "sunset silhouette pirate ship banner"
+  "grunge halftone poster dark orange"
+
+  Save the file as: assets/banner.png  (then uncomment the line below)
+-->
+<!-- <img src="assets/banner.png" width="100%" alt="banner"/> -->
+<img src="assets/banner.jpg" width="100%">
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=32&pause=1200&color=E8A649&center=true&vCenter=true&width=600&lines=Shubham+Upadhyay;Full-Stack+Developer;4th+Year+IT+%C2%B7+TSEC+Mumbai;Building+with+AI%2FML+on+my+own+terms" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://shubhamu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shubhamupadhyay2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shubhamu1332@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/India-E8A649?style=for-the-badge&labelColor=0B0B0A" />
+<img src="https://img.shields.io/badge/Open_to_Opportunities-C1440E?style=for-the-badge&labelColor=0B0B0A" />
+<img src="https://komarev.com/ghpvc/?username=SHUBHAM2775&style=for-the-badge&color=E8A649&labelColor=0B0B0A&label=Views" />
 
 </div>
 
 <br/>
 
+<!--
+  Optional small divider image between sections.
+  Pinterest tags: "torn parchment scroll edge png transparent",
+  "poneglyph stone texture transparent png"
+  Save as: assets/divider.png and drop <img src="assets/divider.png" width="100%"/> anywhere below
+-->
+
 ## About Me
 
-I am a full-stack developer studying Information Technology at TSEC Mumbai. I build complete projects end to end, from database schema and backend logic to the frontend that sits on top of it. Most of my work comes out of hackathons, coursework or a problem that felt worth solving on its own.
+I'm **Shubham**, a 4th year Information Technology student at **Thadomal Shahani Engineering College, Mumbai**, and a full-stack developer who builds end-to-end, production-shaped projects rather than just demos.
 
-- Open to full-stack internship and job opportunities
-- Comfortable across the stack: frontend, backend, database and deployment
-- Prefer working on projects with a real use case over tutorials
+- Learning and applying **AI/ML** on my own terms and not chasing every trend, picking what actually solves the problem in front of me (anomaly detection, embeddings, risk scoring)
+- Secured 2nd place at **CODEISSANCE 2026** and top-5 finalist at **CODEISSANCE 2025**
+- Quiet by nature, fueled by curiosity, always exploring, building, improving myself.
+- Music lover, Marvel and One Piece fan, into anime, badminton, and stargazing with a soft spot for cats.
+- Constant need of listening to music, lives in a world of Marvel and One Piece, likes watching anime, and smashes it in badminton.
+- The only things I'd love to stalk are the night sky full of stars, and the cats wandering around.
+- Reach me at **shubhamu1332@gmail.com**
 
 <br/>
 
 ## Tech Stack
 
-<div align="center">
-
 **Languages**
+<br/>
+<img src="https://img.shields.io/badge/C++-0B0B0A?style=for-the-badge&logo=cplusplus&logoColor=E8A649" />
+<img src="https://img.shields.io/badge/C-0B0B0A?style=for-the-badge&logo=c&logoColor=E7D9B8" />
+<img src="https://img.shields.io/badge/Java-0B0B0A?style=for-the-badge&logo=openjdk&logoColor=E8A649" />
+<img src="https://img.shields.io/badge/Python-0B0B0A?style=for-the-badge&logo=python&logoColor=E8A649" />
+<img src="https://img.shields.io/badge/JavaScript-0B0B0A?style=for-the-badge&logo=javascript&logoColor=E8A649" />
+<img src="https://img.shields.io/badge/TypeScript-0B0B0A?style=for-the-badge&logo=typescript&logoColor=C1440E" />
 
-<img title="JavaScript" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
-<img title="TypeScript" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;
-<img title="Python" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
-<img title="Java" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;
-<img title="C++" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&nbsp;&nbsp;
-<img title="C" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+**Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/React-0B0B0A?style=for-the-badge&logo=react&logoColor=C1440E" />
+<img src="https://img.shields.io/badge/Next.js-0B0B0A?style=for-the-badge&logo=nextdotjs&logoColor=E7D9B8" />
+<img src="https://img.shields.io/badge/Node.js-0B0B0A?style=for-the-badge&logo=nodedotjs&logoColor=E8A649" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0A?style=for-the-badge&logo=tailwindcss&logoColor=C1440E" />
+<img src="https://img.shields.io/badge/Flutter-0B0B0A?style=for-the-badge&logo=flutter&logoColor=E8A649" />
+<img src="https://img.shields.io/badge/Zustand-0B0B0A?style=for-the-badge&logoColor=A9998A" />
+<img src="https://img.shields.io/badge/Zod-0B0B0A?style=for-the-badge&logoColor=A9998A" />
 
-<br/><br/>
-
-**Frontend**
-
-<img title="React" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;
-<img title="Next.js" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>&nbsp;&nbsp;
-<img title="Tailwind CSS" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>&nbsp;&nbsp;
-<img title="Flutter" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-
-<br/><br/>
-
-**Backend**
-
-<img title="Node.js" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;
-<img title="Express" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>&nbsp;&nbsp;
-<img title="FastAPI" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-
-<br/><br/>
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Docker-0B0B0A?style=for-the-badge&logo=docker&logoColor=E8A649" />
+<img src="https://img.shields.io/badge/Redis-0B0B0A?style=for-the-badge&logo=redis&logoColor=C1440E" />
+<img src="https://img.shields.io/badge/AWS-0B0B0A?style=for-the-badge&logo=amazonaws&logoColor=E8A649" />
+<img src="https://img.shields.io/badge/Postman-0B0B0A?style=for-the-badge&logo=postman&logoColor=C1440E" />
+<img src="https://img.shields.io/badge/Git-0B0B0A?style=for-the-badge&logo=git&logoColor=E7D9B8" />
+<img src="https://img.shields.io/badge/GitHub-0B0B0A?style=for-the-badge&logo=github&logoColor=A9998A" />
 
 **Databases**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-0B0B0A?style=for-the-badge&logo=mongodb&logoColor=E8A649" />
+<img src="https://img.shields.io/badge/MySQL-0B0B0A?style=for-the-badge&logo=mysql&logoColor=C1440E" />
+<img src="https://img.shields.io/badge/PostgreSQL-0B0B0A?style=for-the-badge&logo=postgresql&logoColor=E7D9B8" />
+<img src="https://img.shields.io/badge/Firebase-0B0B0A?style=for-the-badge&logo=firebase&logoColor=E8A649" />
 
-<img title="MongoDB" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>&nbsp;&nbsp;
-<img title="MySQL" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;
-<img title="PostgreSQL" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;&nbsp;
-<img title="Redis" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>&nbsp;&nbsp;
-<img title="Firebase" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-
-<br/><br/>
-
-**Tools**
-
-<img title="Docker" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;&nbsp;
-<img title="Git" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
-<img title="Figma" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>&nbsp;&nbsp;
-<img title="Postman" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-
-<sub>Hover an icon to see its name.</sub>
-
-</div>
+**Concepts**
+<br/>
+<img src="https://img.shields.io/badge/REST_APIs-0B0B0A?style=for-the-badge&logoColor=A9998A" />
+<img src="https://img.shields.io/badge/JWT_Auth-0B0B0A?style=for-the-badge&logoColor=A9998A" />
+<img src="https://img.shields.io/badge/WebSockets-0B0B0A?style=for-the-badge&logoColor=A9998A" />
 
 <br/>
 
 ## Projects
 
-### Orizon &nbsp;<sub>🥈 Runner-up, CODEISSANCE 2026</sub>
+<!--
+  Optional per-project banner images.
+  Pinterest tags per project theme:
+  Tremor    → "cracked stone glowing texture dark", "fracture light crack png"
+  Orizon    → "wax seal scroll dark aesthetic", "old ledger parchment glow"
+  EasyShift → "ship bell dark glow illustration", "brass bell amber glow"
+  Save as: assets/tremor.png, assets/orizon.png, assets/easyshift.png
+-->
 
-A lending platform for NBFCs built for a hackathon. It includes a configurable rules engine for approval logic, a risk-scoring layer, automated bank statement extraction and a role-based approval workflow with a full audit trail.
+<table>
+<tr>
+<td width="100%">
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<h3>Tremor — Wikipedia Edit War Detection <a href="https://github.com/SHUBHAM2775/tremor"><img src="https://img.shields.io/badge/-E8A649?style=flat-square&logo=github&logoColor=0B0B0A" height="22"/></a></h3>
 
-<br/>
+<img src="assets/tremor.jpg" width="100%">
+<!-- delete the line above until you've added the image -->
 
-### Tremor
+Real-time analytics dashboard that detects active Wikipedia edit wars using genuine unsupervised ML — time-series anomaly scoring on edit activity/revert frequency, plus sentence-embedding clustering to group disputes. An LLM only summarizes findings in plain English; it isn't used for detection. Deployed as a full production pipeline, including fixing real infra issues (memory crashes, API rate-limit failures).
 
-A live dashboard that tracks Wikipedia edit activity and flags unusual spikes automatically. Built to work as a real production pipeline rather than a demo, polling data every 30 minutes and processing it on a scheduled backend job. Solved several production issues along the way including memory limits, API rate limits and job queue backlogs.
+<img src="https://img.shields.io/badge/Next.js-0B0B0A?style=flat-square&logo=nextdotjs&logoColor=E8A649" /> <img src="https://img.shields.io/badge/FastAPI-0B0B0A?style=flat-square&logo=fastapi&logoColor=E8A649" /> <img src="https://img.shields.io/badge/PostgreSQL-0B0B0A?style=flat-square&logo=postgresql&logoColor=E8A649" /> <img src="https://img.shields.io/badge/Redis-0B0B0A?style=flat-square&logo=redis&logoColor=C1440E" /> <img src="https://img.shields.io/badge/Sentence--Transformers-0B0B0A?style=flat-square&logoColor=E7D9B8" />
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-<br/>
+<table>
+<tr>
+<td width="100%">
 
-<details>
-<summary><b>Sakhi Saathi</b> — Multilingual pregnancy care app</summary>
-<br/>
+<h3>Orizon — Smart Credit Underwriting & Configurable BRE <a href="https://github.com/SHUBHAM2775/Orizon"><img src="https://img.shields.io/badge/-E8A649?style=flat-square&logo=github&logoColor=0B0B0A" height="22"/></a></h3>
 
-Voice-based health logging and emergency SMS alerts for users with limited literacy or low connectivity, built for rural healthcare access.
+<img src="assets/orizon.jpg" width="100%" alt="Orizon banner"/>
+<!-- delete the line above until you've added the image -->
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+Credit underwriting platform for NBFCs combining a configurable Business Rules Engine with XGBoost-based risk scoring and SHAP-driven explainability — includes a PDF bank-statement extraction pipeline and a multi-tier role-based approval workflow with full audit logging. **Runner-up, CODEISSANCE 2026.**
 
-</details>
+<img src="https://img.shields.io/badge/Next.js-0B0B0A?style=flat-square&logo=nextdotjs&logoColor=E8A649" /> <img src="https://img.shields.io/badge/FastAPI-0B0B0A?style=flat-square&logo=fastapi&logoColor=E8A649" /> <img src="https://img.shields.io/badge/PostgreSQL-0B0B0A?style=flat-square&logo=postgresql&logoColor=E8A649" /> <img src="https://img.shields.io/badge/XGBoost-0B0B0A?style=flat-square&logoColor=C1440E" /> <img src="https://img.shields.io/badge/Python-0B0B0A?style=flat-square&logo=python&logoColor=E8A649" />
 
-<details>
-<summary><b>MockMate</b> — Voice-based mock interview platform</summary>
-<br/>
+</td>
+</tr>
+</table>
 
-Practice interviews out loud and get instant scoring plus rewritten answers, using the browser's speech APIs for input.
+<table>
+<tr>
+<td width="100%">
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Web%20Speech%20API-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+<h3>EasyShift — Staff Scheduling & Attendance Platform <a href="https://github.com/SHUBHAM2775/easyshift"><img src="https://img.shields.io/badge/-E8A649?style=flat-square&logo=github&logoColor=0B0B0A" height="22"/></a></h3>
 
-</details>
+<img src="assets/easyshift.jpg" width="100%" alt="EasyShift banner"/>
+<!-- delete the line above until you've added the image -->
 
-<details>
-<summary><b>EasyShift</b> — Staff scheduling and attendance <sub>🏅 Top 5, CODEISSANCE 2025</sub></summary>
-<br/>
+Staff scheduling and attendance platform using QR-based real-time check-ins to automate workforce tracking. Role-based dashboards with multilingual support let managers and staff view schedules and manage shifts through separate access levels. **Top-5 finalist, CODEISSANCE 2025.**
 
-QR-code based real-time attendance with role-based dashboards for managers and staff, multilingual by design.
+<img src="https://img.shields.io/badge/Next.js-0B0B0A?style=flat-square&logo=nextdotjs&logoColor=E8A649" /> <img src="https://img.shields.io/badge/Supabase-0B0B0A?style=flat-square&logo=supabase&logoColor=E8A649" /> <img src="https://img.shields.io/badge/Express-0B0B0A?style=flat-square&logo=express&logoColor=E7D9B8" /> <img src="https://img.shields.io/badge/Node.js-0B0B0A?style=flat-square&logo=nodedotjs&logoColor=E8A649" />
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-
-</details>
-
-<details>
-<summary><b>RankUp</b> — Adaptive coding practice platform</summary>
-<br/>
-
-Algorithm visualizers and progress tracking for DSA practice, adjusting difficulty as you go.
-
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-</details>
-
-<details>
-<summary><b>VendorMitra</b> — B2B supplier marketplace</summary>
-<br/>
-
-Connects small suppliers directly to retailers, cutting out the usual middle layer.
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-</details>
-
-<details>
-<summary><b>Feasto</b> — Restaurant ordering system</summary>
-<br/>
-
-Menu, cart and payment flow built as a desktop application.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Tkinter-000?style=flat-square"/>
-
-</details>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Timeline
-
-```
-2023   Started B.E. Information Technology at TSEC Mumbai
-2024   Joined TSEC CODESTORM as a design contributor
-2025   Top 5 Finalist, CODEISSANCE 2025 (EasyShift)
-2026   Runner-up, CODEISSANCE 2026 (Orizon)
-2026   Ranked 46th globally on Nexus Spring of Code through open source contributions
-2026   Certified in AWS Machine Learning Fundamentals and HackerRank SQL
-```
-
-<br/>
-
-## Outside of Code
-
-I am a fairly quiet, observant person who notices small details. Outside of building projects I follow anime, play badminton and enjoy stargazing on clear nights. Also a committed cat person.
-
-<br/>
-
-## Contribution Snake
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SHUBHAM2775/SHUBHAM2775/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SHUBHAM2775&show_icons=true&bg_color=0B0B0A&title_color=E8A649&text_color=E7D9B8&icon_color=C1440E&border_color=A9998A&border_radius=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAM2775&layout=compact&bg_color=0B0B0A&title_color=E8A649&text_color=E7D9B8&border_color=A9998A&border_radius=8" width="42%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAM2775&background=0B0B0A&border=A9998A&stroke=A9998A&ring=E8A649&fire=C1440E&currStreakLabel=E8A649&sideNums=E7D9B8&currStreakNum=E7D9B8&sideLabels=E7D9B8&dates=A9998A" width="70%"/>
 
 </div>
 
 <br/>
 
-## GitHub Activity
+## Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHUBHAM2775&bg_color=0B0B0A&color=E8A649&line=C1440E&point=E7D9B8&area=true&area_color=E8A649&hide_border=true" width="100%"/>
+</div>
+
+<!--
+  If the activity-graph widget above is slow/down, this snake contribution
+  animation is a solid drop-in alternative (needs a one-time GitHub Actions
+  setup — see github.com/Platane/snk). Ask me to write the workflow file
+  if you want it.
+-->
+
+<br/>
+
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHUBHAM2775&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAM2775&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+<a href="https://github.com/SHUBHAM2775"><img src="https://img.shields.io/badge/GitHub-0B0B0A?style=for-the-badge&logo=github&logoColor=E8A649" /></a>
+<a href="mailto:shubhamu1332@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B0A?style=for-the-badge&logo=gmail&logoColor=C1440E" /></a>
+<a href="https://shubhamu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B0B0A?style=for-the-badge&logo=vercel&logoColor=E7D9B8" /></a>
+<!-- add LinkedIn once you give me the URL: <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0B0B0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a> -->
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+<div align="center">
+<sub>Built with clean architecture and curiosity</sub>
+</div>
